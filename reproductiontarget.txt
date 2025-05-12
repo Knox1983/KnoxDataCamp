@@ -1,0 +1,24 @@
+Reproduction Target for Capstone Project – Malicious URL Detection
+-------------------------------------------------------------------
+
+Targeted Repository:
+--------------------
+Name: Malicious URL Detection System
+Author: Vishal Patel (GitHub user: vishal815)
+Link: https://github.com/vishal815/Malicious-URL-Detection-System
+
+Why I Chose This Project:
+--------------------------
+I selected this project because it closely matches the goals of my capstone, which is to develop a machine learning model that classifies URLs as malicious. The repository includes a clear implementation using Python and scikit-learn, a Jupyter Notebook, and a labeled dataset similar to the one I plan to use.
+
+It does not require a GPU or complex infrastructure, which makes it feasible to run and modify using AWS SageMaker Studio Lab or Google Colab. It also uses interpretable features (like URL length, presence of digits, use of special characters), aligning well with the feature engineering direction for my prototype.
+
+How This Supports My Capstone:
+-------------------------------
+By reproducing this solution, I will:
+- Understand the full pipeline from URL preprocessing to classification
+- Validate performance of baseline models like Decision Tree and Logistic Regression
+- Gain insights into which features have the most predictive power
+- Establish a baseline to improve on with additional features or deployment options
+
+I will document the steps I took and log performance results in a Jupyter Notebook as part of this phase.

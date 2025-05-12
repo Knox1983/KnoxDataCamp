@@ -1,0 +1,32 @@
+Malicious URL Detection – Surveyed Research Sources
+--------------------------------------------------
+
+1. Title: PyraTrans: Attention-Enriched Pyramid Transformer for Malicious URL Detection
+   Year: 2023
+   Summary: Introduces a transformer-based model with spatial pyramid attention to improve malicious URL classification, particularly in adversarial cases.
+   Link: https://arxiv.org/abs/2312.00508
+
+2. Title: Malicious URL Detection via Pretrained Language Model Guided Multi-Level Feature Attention
+   Year: 2023
+   Summary: Uses CharBERT with layer-aware attention and spatial pyramid pooling for hierarchical feature extraction.
+   Link: https://arxiv.org/abs/2311.12372
+
+3. Title: A Review on Malicious URLs Detection Using Machine Learning Methods
+   Year: 2023
+   Summary: Survey of machine learning-based URL detection, discusses common features, algorithmic approaches, and real-world use cases.
+   Link: https://www.researchgate.net/publication/376707228
+
+4. Title: Enhancing Malicious URL Detection with Advanced Machine Learning Techniques
+   Year: 2024
+   Summary: Analyzes 42 URL-based features across several classifiers (SVM, Random Forest) using real-world phishing datasets.
+   Link: https://www.researchgate.net/publication/390442492
+
+5. Repository: End-to-End Malicious URL Detection (GitHub)
+   Author: Priyanshu9898
+   Description: Python ML pipeline for URL classification with Flask-based API integration.
+   Link: https://github.com/Priyanshu9898/End-to-End-Malicious-URL-Detection
+
+6. Repository: Malicious URL Detection Using Deep Learning (GitHub)
+   Author: idanKinderman
+   Description: Binary classification of malicious URLs using deep learning and RNN-based models.
+   Link: https://github.com/idankinderman/Malicious_URL_Detection
